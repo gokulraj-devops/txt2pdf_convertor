@@ -1,6 +1,6 @@
-This is docker project. Its is used to convert the txt file to pdf file. using python.
+#This is docker project. Its is used to convert the txt file to pdf file. using python.
 
-install and following steps,
+##install and following steps,
 
 1. Clone the repo.
 2. Open the ps to check below command,
